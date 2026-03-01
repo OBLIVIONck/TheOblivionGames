@@ -1,0 +1,76 @@
+{
+  "name": "The Oblivion Games",
+  "subtitle": "Source where I find funny or good games/tools",
+  "description": "Idk what to put here, they forced me to have a discription…",
+  "iconURL": "https://files.catbox.moe/majo5n.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#e25659",
+  "featuredApps": [
+    "app.ish.iSH",
+    "org.oblivion.flappybird"
+  ],
+  "headerURL": "https://files.catbox.moe/d2yt7q.jpeg",
+  "apps": [
+    {
+      "name": "sm64ios",
+      "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "",
+      "localizedDescription": "idk",
+      "iconURL": "https://i.imgur.com/XaGlZOr.png",
+      "tintColor": "#0464fc",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iSH",
+      "bundleIdentifier": "app.ish.iSH",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Linux shell on IOS",
+      "localizedDescription": "This is basically a linux shell on ios, linux from temu lol",
+      "iconURL": "https://i.imgur.com/9FDNY7k.png",
+      "tintColor": "#7f7f7f",
+      "category": "developer",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Programs running in iSH will be allowed to track your location in the background.",
+          "NSLocationWhenInUseUsageDescription": "Programs running in iSH will be allowed to see your location.",
+          "NSLocationAlwaysUsageDescription": "Programs running in iSH will be allowed to track your location in the background.",
+          "NSLocalNetworkUsageDescription": "This is required for connecting to localhost and using the ping command."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.oblivion.flappybird",
+      "marketplaceID": "",
+      "developerName": "I forgot who btw",
+      "subtitle": "Flappy bird",
+      "localizedDescription": "Flap flap, idk",
+      "iconURL": "https://i.imgur.com/y8tZDYV.png",
+      "tintColor": "#7ce498",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
