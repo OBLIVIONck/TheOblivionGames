@@ -1,73 +1,67 @@
 {
-  "name": "The Oblivion Games",
-  "subtitle": "Source where I find funny or good games/tools",
-  "description": "Idk what to put here, they forced me to have a discription…",
-  "iconURL": "https://files.catbox.moe/majo5n.png",
+  "name": "Oblivion Games",
+  "subtitle": "funny stuff by a funny guy",
+  "description": "I just import games I think are usually fun, sometimes tools also...",
+  "iconURL": "https://i.imgur.com/nznp0EC.png",
   "website": "",
   "patreonURL": "",
-  "tintColor": "#e25659",
+  "tintColor": "#6156e2",
   "featuredApps": [
-    "app.ish.iSH",
-    "org.oblivion.flappybird"
+    "com.ubisoft.hungrydragon",
+    "com.fgol.HungrySharkEvolution"
   ],
-  "headerURL": "https://files.catbox.moe/d2yt7q.jpeg",
+  "headerURL": "https://i.imgur.com/bFVt7qI.jpeg",
   "apps": [
     {
-      "name": "sm64ios",
-      "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
+      "name": "HungryDragon",
+      "bundleIdentifier": "com.ubisoft.hungrydragon",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "",
-      "localizedDescription": "idk",
-      "iconURL": "https://i.imgur.com/XaGlZOr.png",
-      "tintColor": "#0464fc",
+      "developerName": "Ik_Ik",
+      "subtitle": "Hungry Dragons Evolution",
+      "localizedDescription": "Features:\n- NO ADS\n\n- Currency Unlimited\n\n- Pet Unlocked\n\n- Revive Cost 0\n\n- EAT Radius\n\n- Booster Max\n\n- HP [ Auto Drain OFF ]\n",
+      "iconURL": "https://i.imgur.com/y24vA9i.png",
+      "tintColor": "#047ca8",
       "category": "games",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "iSH",
-      "bundleIdentifier": "app.ish.iSH",
-      "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "Linux shell on IOS",
-      "localizedDescription": "This is basically a linux shell on ios, linux from temu lol",
-      "iconURL": "https://i.imgur.com/9FDNY7k.png",
-      "tintColor": "#7f7f7f",
-      "category": "developer",
       "screenshots": [],
       "versions": [],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Programs running in iSH will be allowed to track your location in the background.",
-          "NSLocationWhenInUseUsageDescription": "Programs running in iSH will be allowed to see your location.",
-          "NSLocationAlwaysUsageDescription": "Programs running in iSH will be allowed to track your location in the background.",
-          "NSLocalNetworkUsageDescription": "This is required for connecting to localhost and using the ping command."
+          "NSAppleMusicUsageDescription": "Used to listen to music while playing.",
+          "NSCalendarsUsageDescription": "Some ad content may create a calendar event.",
+          "NSCameraUsageDescription": "Used for taking pictures of your dragons!",
+          "NSPhotoLibraryAddUsageDescription": "Used for taking pictures of your dragons!",
+          "NSPhotoLibraryUsageDescription": "Used for taking pictures of your dragons!",
+          "NSUserTrackingUsageDescription": "This allows to display personalized ads. Refusing will not reduce the displayed number of ads."
         }
       },
       "patreon": {}
     },
     {
-      "name": "Flappy Bird",
-      "bundleIdentifier": "org.oblivion.flappybird",
+      "name": "HungryShark",
+      "bundleIdentifier": "com.fgol.HungrySharkEvolution",
       "marketplaceID": "",
-      "developerName": "I forgot who btw",
-      "subtitle": "Flappy bird",
-      "localizedDescription": "Flap flap, idk",
-      "iconURL": "https://i.imgur.com/y8tZDYV.png",
-      "tintColor": "#7ce498",
-      "category": "games",
+      "developerName": "Puddin",
+      "subtitle": "Hungry Shark Evolution Imported from IOSGods",
+      "localizedDescription": "Features:\n- Unlimited Coins\n- Unlimited Gems\n- No Ads\n",
+      "iconURL": "https://i.imgur.com/tP3RFMJ.png",
+      "tintColor": "#5cbcf4",
+      "category": "other",
       "screenshots": [],
       "versions": [],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint ": "https://appsflyer-skadnetwork.com/",
+          "NSAppleMusicUsageDescription": "Used to listen music while playing",
+          "NSCalendarsUsageDescription": "Used to improve your game experience",
+          "NSCameraUsageDescription": "Used for video commentary etc",
+          "NSLocationAlwaysUsageDescription": "Used for video ads filtering",
+          "NSLocationWhenInUseUsageDescription": "Used for video ads filtering",
+          "NSMicrophoneUsageDescription": "Used for recording video gameplay",
+          "NSPhotoLibraryUsageDescription": "Used to take pictures of your shark etc",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver you personalized and relevant ads."
+        }
       },
       "patreon": {}
     }
