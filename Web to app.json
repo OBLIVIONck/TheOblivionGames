@@ -1,34 +1,31 @@
 {
-  "name": "Web to app",
-  "subtitle": "website to ios app",
-  "description": "idk why, i do this for fun",
-  "iconURL": "https://i.imgur.com/rMpt3mp.png",
-  "website": "",
-  "patreonURL": "",
-  "tintColor": "#6156e2",
-  "featuredApps": [],
-  "headerURL": "https://i.imgur.com/N8XDg5d.jpeg",
-  "apps": [
-    {
-      "name": "NealFun",
-      "bundleIdentifier": "fun.neal.app",
-      "marketplaceID": "",
-      "developerName": "Neal Agarwel",
-      "subtitle": "neal.fun",
-      "localizedDescription": "Website: https://neal.fun\nads: yes, tried to block them all sob\nPorted by Oblivion",
-      "iconURL": "https://i.imgur.com/BSmzWtf.png",
-      "tintColor": "#c49c64",
-      "category": "games",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor"
+    "name": "Web to app Repository",
+    "identifier": "web.to.app.repo",
+    "subtitle": "website to ios app",
+    "description": "idk why, i do this for fun",
+    "iconURL": "https://i.imgur.com/rMpt3mp.png",
+    "website": "",
+    "tintColor": "6156e2",
+    "headerURL": "https://i.imgur.com/N8XDg5d.jpeg",
+    "apps": [
+        {
+            "name": "NealFun",
+            "bundleIdentifier": "fun.neal.app",
+            "developerName": "Neal Agarwel",
+            "iconURL": "https://i.imgur.com/BSmzWtf.png",
+            "localizedDescription": "Website: https://neal.fun\nads: yes, tried to block them all sob\nPorted by Oblivion",
+            "subtitle": "neal.fun",
+            "tintColor": "c49c64",
+            "category": "games",
+            "screenshots": [],
+            "versions": [],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                    "NSAccentColorName": "AccentColor"
+                }
+            }
         }
-      },
-      "patreon": {}
-    }
-  ],
-  "news": []
+    ],
+    "news": []
 }
